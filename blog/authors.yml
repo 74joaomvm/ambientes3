@@ -2,21 +2,6 @@ miguel:
   name: Miguel Coelho
   title: Estudante universitário
   url: https://github.com/Migueldc76
-  image_url: /img/Migueldc76.png
   page: true
   socials:
     github: Migueldc76
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
-  socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
