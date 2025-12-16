@@ -4,59 +4,85 @@
         <title>Tabacaria.exe Blog</title>
         <link>https://github.com/ambientes3/blog</link>
         <description>Tabacaria.exe Blog</description>
-        <lastBuildDate>Tue, 16 Dec 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Dec 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Cuidados Essenciais para os Produtos de Tabacaria]]></title>
-            <link>https://github.com/ambientes3/blog/teste</link>
-            <guid>https://github.com/ambientes3/blog/teste</guid>
-            <pubDate>Tue, 16 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Manter os produtos de tabacaria em bom estado é fundamental para garantir a melhor experiência. Desde os charutos até os cachimbos, cada item exige cuidados específicos. Aqui estão algumas dicas essenciais para preservar a qualidade e prolongar a vida útil dos seus produtos.]]></description>
-            <content:encoded><![CDATA[<p>Manter os produtos de <strong>tabacaria</strong> em bom estado é fundamental para garantir a melhor experiência. Desde os <strong>charutos</strong> até os <strong>cachimbos</strong>, cada item exige cuidados específicos. Aqui estão algumas dicas essenciais para preservar a qualidade e prolongar a vida útil dos seus produtos.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-armazenamento-correto-dos-charutos">1. <strong>Armazenamento Correto dos Charutos</strong><a href="https://github.com/ambientes3/blog/teste#1-armazenamento-correto-dos-charutos" class="hash-link" aria-label="Direct link to 1-armazenamento-correto-dos-charutos" title="Direct link to 1-armazenamento-correto-dos-charutos" translate="no">​</a></h2>
-<p>Os <strong>charutos</strong> precisam de condições ideais para se manterem frescos e saborosos. O armazenamento adequado é crucial:</p>
-<ul>
-<li class=""><strong>Umidade Ideal</strong>: Use um <strong>caixa de humidade</strong> para manter a umidade entre <strong>65% e 75%</strong>.</li>
-<li class=""><strong>Temperatura Controlada</strong>: Armazene os charutos a uma temperatura constante de <strong>18°C a 21°C</strong>.</li>
-<li class=""><strong>Evitar a luz direta do sol</strong>: A luz direta pode afetar o sabor e a textura dos charutos.</li>
-</ul>
-<p>Mantenha os charutos em um ambiente adequado para garantir que se mantenham em ótimo estado até o momento de consumo.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-cuidados-com-o-cachimbo">2. <strong>Cuidados com o Cachimbo</strong><a href="https://github.com/ambientes3/blog/teste#2-cuidados-com-o-cachimbo" class="hash-link" aria-label="Direct link to 2-cuidados-com-o-cachimbo" title="Direct link to 2-cuidados-com-o-cachimbo" translate="no">​</a></h2>
-<p>Um <strong>cachimbo</strong> bem cuidado proporciona uma experiência única. Para mantê-lo em boas condições:</p>
-<ul>
-<li class=""><strong>Limpeza regular</strong>: Use uma <strong>escova de cachimbo</strong> para limpar o interior após cada uso. Isso evita o acúmulo de resíduos e mantém a qualidade da fumaça.</li>
-<li class=""><strong>Secagem adequada</strong>: Após a limpeza, deixe o cachimbo secar completamente para evitar o crescimento de fungos.</li>
-<li class=""><strong>Cera para cachimbos</strong>: Aplique uma fina camada de <strong>cera de cachimbo</strong> para manter a madeira nutrida e protegida.</li>
-</ul>
-<p>Esses cuidados simples garantem que seu cachimbo esteja sempre pronto para uso.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-armazenamento-do-tabaco">3. <strong>Armazenamento do Tabaco</strong><a href="https://github.com/ambientes3/blog/teste#3-armazenamento-do-tabaco" class="hash-link" aria-label="Direct link to 3-armazenamento-do-tabaco" title="Direct link to 3-armazenamento-do-tabaco" translate="no">​</a></h2>
-<p>O <strong>tabaco</strong> deve ser mantido em condições ideais para evitar que seque e perca o sabor. Aqui estão algumas dicas para armazená-lo corretamente:</p>
-<ul>
-<li class=""><strong>Pote hermético</strong>: Guarde o tabaco em <strong>recipientes herméticos</strong> para preservar a frescura.</li>
-<li class=""><strong>Evitar a exposição ao ar</strong>: O tabaco tende a ressecar rapidamente se exposto ao ar. Mantenha-o em <strong>recipientes fechados</strong> e em um local fresco.</li>
-<li class=""><strong>Evitar altas temperaturas</strong>: Calor excessivo pode alterar o sabor do tabaco, então, evite armazená-lo perto de fontes de calor.</li>
-</ul>
-<p>Com esses cuidados, seu tabaco vai manter a qualidade e o sabor por muito mais tempo.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusão"><strong>Conclusão</strong><a href="https://github.com/ambientes3/blog/teste#conclus%C3%A3o" class="hash-link" aria-label="Direct link to conclusão" title="Direct link to conclusão" translate="no">​</a></h2>
-<p>Com alguns <strong>cuidados simples</strong> e manutenção regular, seus produtos de tabacaria vão durar mais e proporcionar uma experiência de consumo de alta qualidade. Lembre-se de sempre verificar as condições de armazenamento e fazer a limpeza periódica dos itens.</p>
+            <title><![CDATA[Daniekl]]></title>
+            <link>https://github.com/ambientes3/blog/daniel</link>
+            <guid>https://github.com/ambientes3/blog/daniel</guid>
+            <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Como foi criada a aplicação "Tabacaria.exe"?]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="como-foi-criada-a-aplicação-tabacariaexe">Como foi criada a aplicação "Tabacaria.exe"?<a href="https://github.com/ambientes3/blog/daniel#como-foi-criada-a-aplica%C3%A7%C3%A3o-tabacariaexe" class="hash-link" aria-label="Direct link to Como foi criada a aplicação &quot;Tabacaria.exe&quot;?" title="Direct link to Como foi criada a aplicação &quot;Tabacaria.exe&quot;?" translate="no">​</a></h3>
+<p><strong>Pergunta</strong>: O que motivou o desenvolvimento da aplicação "Tabacaria.exe"?</p>
+<p><strong>Resposta</strong>: A motivação para criar a aplicação "Tabacaria.exe" surgiu da necessidade de modernizar o processo de gestão de um negócio de tabacaria. O objetivo principal foi criar uma solução que facilitasse a administração do inventário, vendas e controle de clientes, permitindo uma operação mais eficiente e sem erros manuais. Além disso, buscava-se oferecer um sistema simples de usar, mas robusto o suficiente para suportar todas as operações de um negócio de tabacaria.</p>
+<p><strong>Pergunta</strong>: Quais foram os principais desafios enfrentados durante o desenvolvimento da aplicação?</p>
+<p><strong>Resposta</strong>: Um dos maiores desafios foi garantir que o sistema fosse fácil de usar, ao mesmo tempo que fosse capaz de lidar com a complexidade das operações diárias de uma tabacaria. A integração do sistema de inventário com as vendas e a criação de relatórios em tempo real exigiram um planejamento detalhado e muitas iterações para garantir que os dados fossem processados corretamente. Além disso, garantir a segurança dos dados dos clientes e a usabilidade da interface para funcionários sem experiência técnica também foi um desafio constante. Mas, ao final, esses obstáculos foram superados com o uso de boas práticas de desenvolvimento e um foco constante na experiência do usuário.</p>
 <hr>
-<p><strong>José Martins</strong><br>
-<!-- -->Especialista em Tabacaria<br>
-<a href="https://www.lojadetabaco.com/" target="_blank" rel="noopener noreferrer" class="">Visite a nossa loja online</a></p>]]></content:encoded>
-            <category>tabacaria</category>
-            <category>cuidados</category>
-            <category>manutenção</category>
+<p><strong>Tomás</strong><br>
+<!-- -->Desenvolvedor do Tabacaria.exe<br>
+<a href="https://github.com/74joaomvm" target="_blank" rel="noopener noreferrer" class="">Visite o meu portfólio</a></p>]]></content:encoded>
+            <category>Desenvolvimento</category>
+            <category>Dev</category>
+            <category>Desenvolvedor</category>
         </item>
         <item>
-            <title><![CDATA[First Blog Post]]></title>
-            <link>https://github.com/ambientes3/blog/first-blog-post</link>
-            <guid>https://github.com/ambientes3/blog/first-blog-post</guid>
-            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lorem ipsum dolor sit amet...]]></description>
-            <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet...</p>
-<p>...consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
+            <title><![CDATA[Como foi criada esta app]]></title>
+            <link>https://github.com/ambientes3/blog/joao</link>
+            <guid>https://github.com/ambientes3/blog/joao</guid>
+            <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Como foi criada a aplicação "Tabacaria.exe"?]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="como-foi-criada-a-aplicação-tabacariaexe">Como foi criada a aplicação "Tabacaria.exe"?<a href="https://github.com/ambientes3/blog/joao#como-foi-criada-a-aplica%C3%A7%C3%A3o-tabacariaexe" class="hash-link" aria-label="Direct link to Como foi criada a aplicação &quot;Tabacaria.exe&quot;?" title="Direct link to Como foi criada a aplicação &quot;Tabacaria.exe&quot;?" translate="no">​</a></h3>
+<p><strong>Pergunta</strong>: O que motivou o desenvolvimento da aplicação "Tabacaria.exe"?</p>
+<p><strong>Resposta</strong>: A motivação para criar a aplicação "Tabacaria.exe" surgiu da necessidade de modernizar o processo de gestão de um negócio de tabacaria. O objetivo principal foi criar uma solução que facilitasse a administração do inventário, vendas e controle de clientes, permitindo uma operação mais eficiente e sem erros manuais. Além disso, buscava-se oferecer um sistema simples de usar, mas robusto o suficiente para suportar todas as operações de um negócio de tabacaria.</p>
+<p><strong>Pergunta</strong>: Quais foram os principais desafios enfrentados durante o desenvolvimento da aplicação?</p>
+<p><strong>Resposta</strong>: Um dos maiores desafios foi garantir que o sistema fosse fácil de usar, ao mesmo tempo que fosse capaz de lidar com a complexidade das operações diárias de uma tabacaria. A integração do sistema de inventário com as vendas e a criação de relatórios em tempo real exigiram um planejamento detalhado e muitas iterações para garantir que os dados fossem processados corretamente. Além disso, garantir a segurança dos dados dos clientes e a usabilidade da interface para funcionários sem experiência técnica também foi um desafio constante. Mas, ao final, esses obstáculos foram superados com o uso de boas práticas de desenvolvimento e um foco constante na experiência do usuário.</p>
+<hr>
+<p><strong>Tomás</strong><br>
+<!-- -->Desenvolvedor do Tabacaria.exe<br>
+<a href="https://github.com/74joaomvm" target="_blank" rel="noopener noreferrer" class="">Visite o meu portfólio</a></p>]]></content:encoded>
+            <category>Desenvolvimento</category>
+            <category>Dev</category>
+            <category>Desenvolvedor</category>
+        </item>
+        <item>
+            <title><![CDATA[Jose]]></title>
+            <link>https://github.com/ambientes3/blog/jose</link>
+            <guid>https://github.com/ambientes3/blog/jose</guid>
+            <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Como foi criada a aplicação "Tabacaria.exe"?]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="como-foi-criada-a-aplicação-tabacariaexe">Como foi criada a aplicação "Tabacaria.exe"?<a href="https://github.com/ambientes3/blog/jose#como-foi-criada-a-aplica%C3%A7%C3%A3o-tabacariaexe" class="hash-link" aria-label="Direct link to Como foi criada a aplicação &quot;Tabacaria.exe&quot;?" title="Direct link to Como foi criada a aplicação &quot;Tabacaria.exe&quot;?" translate="no">​</a></h3>
+<p><strong>Pergunta</strong>: O que motivou o desenvolvimento da aplicação "Tabacaria.exe"?</p>
+<p><strong>Resposta</strong>: A motivação para criar a aplicação "Tabacaria.exe" surgiu da necessidade de modernizar o processo de gestão de um negócio de tabacaria. O objetivo principal foi criar uma solução que facilitasse a administração do inventário, vendas e controle de clientes, permitindo uma operação mais eficiente e sem erros manuais. Além disso, buscava-se oferecer um sistema simples de usar, mas robusto o suficiente para suportar todas as operações de um negócio de tabacaria.</p>
+<p><strong>Pergunta</strong>: Quais foram os principais desafios enfrentados durante o desenvolvimento da aplicação?</p>
+<p><strong>Resposta</strong>: Um dos maiores desafios foi garantir que o sistema fosse fácil de usar, ao mesmo tempo que fosse capaz de lidar com a complexidade das operações diárias de uma tabacaria. A integração do sistema de inventário com as vendas e a criação de relatórios em tempo real exigiram um planejamento detalhado e muitas iterações para garantir que os dados fossem processados corretamente. Além disso, garantir a segurança dos dados dos clientes e a usabilidade da interface para funcionários sem experiência técnica também foi um desafio constante. Mas, ao final, esses obstáculos foram superados com o uso de boas práticas de desenvolvimento e um foco constante na experiência do usuário.</p>
+<hr>
+<p><strong>Tomás</strong><br>
+<!-- -->Desenvolvedor do Tabacaria.exe<br>
+<a href="https://github.com/74joaomvm" target="_blank" rel="noopener noreferrer" class="">Visite o meu portfólio</a></p>]]></content:encoded>
+            <category>Desenvolvimento</category>
+            <category>Dev</category>
+            <category>Desenvolvedor</category>
+        </item>
+        <item>
+            <title><![CDATA[Miguel]]></title>
+            <link>https://github.com/ambientes3/blog/miguel</link>
+            <guid>https://github.com/ambientes3/blog/miguel</guid>
+            <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Como foi criada a aplicação "Tabacaria.exe"?]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="como-foi-criada-a-aplicação-tabacariaexe">Como foi criada a aplicação "Tabacaria.exe"?<a href="https://github.com/ambientes3/blog/miguel#como-foi-criada-a-aplica%C3%A7%C3%A3o-tabacariaexe" class="hash-link" aria-label="Direct link to Como foi criada a aplicação &quot;Tabacaria.exe&quot;?" title="Direct link to Como foi criada a aplicação &quot;Tabacaria.exe&quot;?" translate="no">​</a></h3>
+<p><strong>Pergunta</strong>: O que motivou o desenvolvimento da aplicação "Tabacaria.exe"?</p>
+<p><strong>Resposta</strong>: A motivação para criar a aplicação "Tabacaria.exe" surgiu da necessidade de modernizar o processo de gestão de um negócio de tabacaria. O objetivo principal foi criar uma solução que facilitasse a administração do inventário, vendas e controle de clientes, permitindo uma operação mais eficiente e sem erros manuais. Além disso, buscava-se oferecer um sistema simples de usar, mas robusto o suficiente para suportar todas as operações de um negócio de tabacaria.</p>
+<p><strong>Pergunta</strong>: Quais foram os principais desafios enfrentados durante o desenvolvimento da aplicação?</p>
+<p><strong>Resposta</strong>: Um dos maiores desafios foi garantir que o sistema fosse fácil de usar, ao mesmo tempo que fosse capaz de lidar com a complexidade das operações diárias de uma tabacaria. A integração do sistema de inventário com as vendas e a criação de relatórios em tempo real exigiram um planejamento detalhado e muitas iterações para garantir que os dados fossem processados corretamente. Além disso, garantir a segurança dos dados dos clientes e a usabilidade da interface para funcionários sem experiência técnica também foi um desafio constante. Mas, ao final, esses obstáculos foram superados com o uso de boas práticas de desenvolvimento e um foco constante na experiência do usuário.</p>
+<hr>
+<p><strong>Tomás</strong><br>
+<!-- -->Desenvolvedor do Tabacaria.exe<br>
+<a href="https://github.com/74joaomvm" target="_blank" rel="noopener noreferrer" class="">Visite o meu portfólio</a></p>]]></content:encoded>
+            <category>Desenvolvimento</category>
+            <category>Dev</category>
+            <category>Desenvolvedor</category>
         </item>
     </channel>
 </rss>
