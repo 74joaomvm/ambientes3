@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkambientes_3=globalThis.webpackChunkambientes_3||[]).push([[273],{671:a=>{a.exports=JSON.parse('{"tags":[{"label":"Hola","permalink":"/ambientes3/blog/tags/hola","description":"Hola tag description","count":1},{"label":"Docusaurus","permalink":"/ambientes3/blog/tags/docusaurus","description":"Docusaurus tag description","count":1}]}')}}]);
