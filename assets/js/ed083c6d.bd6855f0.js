@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkambientes_3=globalThis.webpackChunkambientes_3||[]).push([[6120],{9682:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/ambientes3/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
