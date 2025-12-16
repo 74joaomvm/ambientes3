@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Queremos uma interface simples com tudo o que necessita de modo a que possa gerir tudo através de um clique
+        Queremos uma interface simples com tudo o que necessita de modo a que possa gerir tudo através de um clique!
       </>
     ),
   },
