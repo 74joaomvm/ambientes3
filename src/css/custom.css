@@ -40,21 +40,85 @@
 
 
 
+/* Título e Subtítulo */
+.hero__title {
+  font-size: 3.5em;  /* Aumenta o tamanho do título */
+  font-weight: bold; /* Negrito */
+  color: #f5c542;    /* Dourado */
+  text-align: center; /* Centraliza horizontalmente */
+  margin: 0 auto;    /* Garante que o título fique no centro */
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.6);  /* Sombra para o título */
+}
+
+/* Subtítulo com contraste diferente */
+.hero__subtitle {
+  font-size: 1.5em;
+  font-weight: normal;
+  color: #ffffff; /* Branco para o subtítulo */
+  text-align: center; /* Centraliza horizontalmente */
+  margin-top: 10px;
+  margin-bottom: 20px;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.3);  /* Sombra suave */
+}
+
 /* Centralizar o botão dentro do contêiner */
 .hero__buttons {
   display: flex;
   justify-content: center;  /* Alinhar horizontalmente */
   align-items: center;      /* Alinhar verticalmente */
   flex-direction: column;   /* Organizar os elementos em coluna */
+  gap: 10px;                /* Espaço entre os botões */
 }
 
 /* Centralizar o botão */
 .hero__buttons .button {
-  margin-top: 10px; /* Adicionar um pouco de espaço entre o título e o botão */
+  background-color: #f5c542; /* Cor dourada para o botão */
+  color: #000000; /* Texto preto para o botão */
+  padding: 15px 30px; /* Tamanho do botão */
+  border: none;
+  border-radius: 8px; /* Borda suave */
+  font-size: 1.2em;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Sombra suave para o botão */
+  outline: none; /* Remove o outline padrão */
+  transition: background-color 0.3s ease, transform 0.3s ease;
+  text-align: center;  /* Garante que o texto fique centralizado */
+  width: auto;         /* Ajusta a largura do botão */
+  margin: 0 auto;      /* Garante que o botão fique centralizado */
+}
+
+/* Efeito de hover no botão */
+.hero__buttons .button:hover {
+  background-color: #ff8c00; /* Cor laranja para o botão ao passar o mouse */
+  transform: scale(1.05); /* Leve aumento no tamanho do botão */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4); /* Sombra mais intensa no hover */
+}
+
+/* Adicionando outline suave quando o botão é focado */
+.hero__buttons .button:focus {
+  outline: 2px solid #f5c542; /* Adiciona outline dourado suave */
+  outline-offset: 4px; /* Distância do outline em relação ao botão */
 }
 
 
-.hero__title, .hero__subtitle {
-  text-align: center;  /* Centraliza horizontalmente */
-  margin: 0 auto;      /* Garante que os elementos fiquem centralizados */
+/* Estilo para o Footer */
+footer {
+  background-color: #2c2c2c; /* Cor mais clara para o fundo do rodapé */
+  color: #f5c542;  /* Cor dourada para o texto do rodapé */
+  text-align: center;
+  padding: 20px;
 }
+
+footer a {
+  color: #f5c542; /* Cor dourada para os links */
+  font-size: 1.2em;
+}
+
+footer a:hover {
+  color: #ff8c00; /* Cor laranja para hover nos links */
+}
+
+
+
+
+
