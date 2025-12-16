@@ -1,8 +1,7 @@
 ---
 slug: first-blog-post
 title: First Blog Post
-authors: [miguel, slorber]
-tags: [hola, docusaurus]
+authors: [miguel]
 ---
 
 Lorem ipsum dolor sit amet...
