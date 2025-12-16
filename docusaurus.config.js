@@ -104,7 +104,13 @@ const config = {
             label: 'Open-Source',
             position: 'right',
           },
+          {
+            href: 'https://www.youtube.com',
+            label: 'Tutorial (Youtube) | Em desenvolvimento...',
+            position: 'right',
+          },
         ],
+        
       },
       footer: {
         style: 'dark',
