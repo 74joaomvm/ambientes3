@@ -129,7 +129,7 @@ const config = {
               },
               {
                 label: 'Instagram',
-                href: 'https://instagram.com',
+                href: 'https://instagram.com/liga.boxe',
               },
             ],
           },
@@ -142,7 +142,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/74joaomvm',
+                href: 'https://github.com/74joaomvm/ambientes3',
               },
             ],
           },
