@@ -142,7 +142,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/74joaomvm/ambientes3',
+                href: 'https://github.com/74joaomvm/ambientes',
               },
             ],
           },
