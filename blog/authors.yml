@@ -1,38 +1,25 @@
-Miguel:
-  name: Miguel Coelho
-  title: Estudante Universitário
-  url: https://github.com/Migueldc76
-  image_url: https://github.com/Migueldc76.png
+yangshun:
+  name: Yangshun Tay
+  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
+  url: https://linkedin.com/in/yangshun
+  image_url: https://github.com/yangshun.png
   page: true
   socials:
-    github: Migueldc76
+    x: yangshunz
+    linkedin: yangshun
+    github: yangshun
+    newsletter: https://www.greatfrontend.com
 
-Daniel:
-  name: Daniel Nascimento
-  title: Estudante Universitário
-  url: https://github.com/DanielNascimentoo
-  image_url: https://github.com/DanielNascimentoo.png
-  page: true
+slorber:
+  name: Sébastien Lorber
+  title: Docusaurus maintainer
+  url: https://sebastienlorber.com
+  image_url: https://github.com/slorber.png
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: '/all-sebastien-lorber-articles'
   socials:
-    github: DanielNascimentoo
-
-
-
-João:
-  name: João Mendonça
-  title: Estudante Universitário
-  url: https://github.com/74joaomvm
-  image_url: https://github.com/74joaomvm.png
-  page: true
-  socials:
-    github: 74joaomvm
-
-
-José:
-  name: José Martins
-  title: Estudante Universitário
-  url: https://github.com/zezim000
-  image_url: https://github.com/zezim000.png
-  page: true
-  socials:
-    github: zezim000
+    x: sebastienlorber
+    linkedin: sebastienlorber
+    github: slorber
+    newsletter: https://thisweekinreact.com
