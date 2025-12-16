@@ -16,12 +16,12 @@
         <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet...</p>
 <p>...consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
         <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
+            <name>Miguel Coelho</name>
+            <uri>https://github.com/Migueldc76</uri>
         </author>
         <author>
-            <name>Yangshun Tay</name>
-            <uri>https://linkedin.com/in/yangshun</uri>
+            <name>Sébastien Lorber</name>
+            <uri>https://sebastienlorber.com</uri>
         </author>
         <category label="Hola" term="Hola"/>
         <category label="Docusaurus" term="Docusaurus"/>
