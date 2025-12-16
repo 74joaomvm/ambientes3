@@ -106,7 +106,7 @@ const config = {
           },
           {
             href: 'https://www.youtube.com',
-            label: 'Tutorial (Youtube) | Em desenvolvimento...',
+            label: 'Youtube | Em desenvolvimento...',
             position: 'right',
           },
         ],
