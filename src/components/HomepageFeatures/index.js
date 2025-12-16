@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Aplicação Intuitiva',
-    Svg: require('@site/static/img/aplicacao_intuitiva.png').default,
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
         A nossa aplicação é fácil de usar e foi projetada para simplificar a gestão do seu negócio de tabaco. Controle tudo com alguns cliques, desde o inventário até as vendas, de forma eficiente e intuitiva.
@@ -17,7 +17,8 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        KUZEEEEEEEEEEEEEEEEEE
+        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
+        ahead and move your docs into the <code>docs</code> directory.
       </>
     ),
   },
