@@ -1,11 +1,14 @@
-miguel:
-  name: Miguel Coelho
-  title: Estudante universitário
-  url: https://github.com/Migueldc76
-  image_url: /img/Migueldc76.png
+yangshun:
+  name: Yangshun Tay
+  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
+  url: https://linkedin.com/in/yangshun
+  image_url: https://github.com/yangshun.png
   page: true
   socials:
-    github: Migueldc76
+    x: yangshunz
+    linkedin: yangshun
+    github: yangshun
+    newsletter: https://www.greatfrontend.com
 
 slorber:
   name: Sébastien Lorber
