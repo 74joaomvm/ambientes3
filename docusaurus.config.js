@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Tabacaria',
-  tagline: 'Tabacaria aos melhores preços!',
+  title: 'Tabacaria.exe',
+  tagline: 'Inova o sistema do teu negócio de tabaco!',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
