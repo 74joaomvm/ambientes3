@@ -13,3 +13,19 @@ jose:
   page: true
   socials:
     github: zezim000
+
+joao:
+  name: Joao Mendonça
+  title: Estudante universitário
+  url: https://github.com/74joaomvm
+  page: true
+  socials:
+    github: 74joaomvm
+
+daniel:
+  name: Daniel Nascimento
+  title: Estudante universitário
+  url: https://github.com/danielnascimentoo
+  page: true
+  socials:
+    github: danielnascimentoo

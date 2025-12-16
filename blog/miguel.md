@@ -1,8 +1,8 @@
 ---
-title: "Miguel"
-author: Miguel
+title: "Desenvolvimento da aplicação"
+author: Miguel Coelho
 author_title: "Desenvolvedor de softwares comerciais"
-author_url: "https://github.com/74joaomvm"
+author_url: "https://github.com/Migueldc76"
 tags: [Desenvolvimento, Dev, Desenvolvedor]
 date: 2025-12-17
 ---
@@ -21,6 +21,6 @@ date: 2025-12-17
 
 ---
 
-**Tomás**  
+**Miguel**  
 Desenvolvedor do Tabacaria.exe  
-[Visite o meu portfólio](https://github.com/74joaomvm)
+[Visite o meu portfólio](https://github.com/Migueldc76)
