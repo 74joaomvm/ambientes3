@@ -28,3 +28,13 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+
+/* Garantir que a imagem do autor tenha o tamanho correto */
+.author__image {
+  width: 50px;  /* Ajuste o tamanho conforme necessário */
+  height: 50px;
+  border-radius: 50%;  /* Para tornar a imagem redonda, se necessário */
+  object-fit: cover;  /* Ajusta a imagem para cobrir a área do elemento */
+}
+
