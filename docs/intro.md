@@ -2,43 +2,133 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 🧾 Sistema de Consola para uma Tabacaria
 
-Let's discover **Docusaurus in less than 5 minutes**.
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)]()
+[![Status](https://img.shields.io/badge/Status-Ativo-success.svg)]()
+[![License](https://img.shields.io/badge/License-Educacional-lightgrey.svg)]()
 
-## Getting Started
+Este repositório contém um sistema de consola desenvolvido para a disciplina  
+**Ambientes de Desenvolvimento Colaborativo**. O projeto simula operações básicas de uma tabacaria com integração a uma base de dados SQL.
 
-Get started by **creating a new site**.
+---
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## 📘 Sobre o Projeto
+O sistema permite gerir itens, vendas e consultas da tabacaria através de um menu em consola.  
+Toda a documentação detalhada pode ser encontrada na **Wiki oficial do projeto**.
 
-### What you'll need
+---
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## ⚙️ Funcionalidades
+- Gestão de produtos
+- Pesquisa e filtros
+- Carrinho de compras
+- Sistema de vendas
+- Relatórios simples
+- Integração com base de dados SQL
 
-## Generate a new site
+---
 
-Generate a new Docusaurus site using the **classic template**.
+## 🛠️ Tecnologias Utilizadas
+- Python
+- MySQL / HeidiSQL
+- Git & GitHub
+- Markdown
 
-The classic template will automatically be added to your project after you run the command:
+---
 
-```bash
-npm init docusaurus@latest my-website classic
+## 🚀 Como Usar
+
+### 1️⃣ Clonar o Repositório
+```git clone https://github.com/74joaomvm/ambientes.git```
+
+
+### 2️⃣ Configurar a Base de Dados
+1. Abra o arquivo main.py.
+2. Vá até a linha 14 e altere o nome da base de dados conforme a sua
+3. Abra o seu gestor de base de dados (ex.: HeidiSQL) e importe:
+```database/database.sql```
+
+
+### 3️⃣ Instalar Dependências
+1. Certifique-se de ter Python 3.10+ instalado.
+2. Abra a sua linha de comando e execute: ```pip install -r requirements.txt```
+
+
+### 4️⃣ Executar o Sistema
+Dentro da linha de comandos dentro do seu Diretório execute: ```python main.py``` ou ```python3 main.py``` consoante a sua versão python.
+
+
+### 🎉 Pronto! 
+O sistema inicia imediatamente no terminal.
+
+--- 
+
+## 🖥️ Screenshot do Repositório
+*(Exemplo da visualização)*
+
+![Execução do programa em cmd Windows](printscreen/cmd.png)
+
+
+--- 
+
+## 🗃️ Estrutura do Projeto
+```
+📁 ambientes
+├── 📁 database
+│ └── database.sql
+├── 📁 printscreen
+│ └── cmd.png
+├── README.md
+└── main.py
 ```
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+--- 
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+## ❓ FAQ
 
-## Start your site
+### ➡ Tenho erro de ligação ao MySQL?
+Verifique se o utilizador, senha e nome da base de dados no main.py estão corretos.
 
-Run the development server:
+### ➡ É obrigatório usar HeidiSQL?
+Não. Pode usar qualquer gestor como Workbench, Beekeeper, DBeaver, etc.
 
-```bash
-cd my-website
-npm run start
-```
+### ➡ O sistema tem interface gráfica?
+Nesta versão ainda não. É totalmente em consola. Fique atento ao repositório que em breve haverá uma versão de aplicação web.
+
+
+--- 
+
+## 👨‍💻 Colaboradores
+
+- [74joaomvm](https://github.com/74joaomvm)
+- [DanielNascimentoo](https://github.com/DanielNascimentoo)
+- [zezima000](https://github.com/zezima000)
+- [Migueldc76](https://github.com/Migueldc76)
+
+---
+
+## 🗺️ Roadmap (Futuro do Projeto)
+- [ ] Adicionar sistema de login
+- [ ] Criar relatórios em PDF
+- [ ] Melhorar gestão de stock
+- [ ] Criar testes automáticos
+
+
+
+---
+
+## 📄 Licença
+
+Este projeto é de uso exclusivamente educacional. Créditos aos autores e colaboradores.
+
+
+---
+
+## ⭐ Contribua!
+
+**Gostou?** 
+Dê uma ⭐ no repositório para apoiar o projeto!
 
 The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
 
