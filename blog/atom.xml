@@ -19,11 +19,5 @@
             <name>Miguel Coelho</name>
             <uri>https://github.com/Migueldc76</uri>
         </author>
-        <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
-        </author>
-        <category label="Hola" term="Hola"/>
-        <category label="Docusaurus" term="Docusaurus"/>
     </entry>
 </feed>
