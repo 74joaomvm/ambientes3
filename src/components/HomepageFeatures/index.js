@@ -5,8 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Aplicação Intuitiva',
-    img: require('@site/static/img/aplicacao_intuitiva.png'),
-
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
         A nossa aplicação é fácil de usar e foi projetada para simplificar a gestão do seu negócio de tabaco. Controle tudo com alguns cliques, desde o inventário até as vendas, de forma eficiente e intuitiva.
