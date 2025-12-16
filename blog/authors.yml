@@ -5,3 +5,11 @@ miguel:
   page: true
   socials:
     github: Migueldc76
+
+jose:
+  name: José Martins
+  title: Estudante universitário
+  url: https://github.com/zezim000
+  page: true
+  socials:
+    github: zezim000
