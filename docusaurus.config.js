@@ -86,7 +86,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'My Site',
+        title: 'Tabacaria.exe | Inova o teu negócio',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
