@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Tabacaria.exe',
   tagline: 'Inova o sistema do teu negócio de tabaco!',
-  favicon: 'img/tabacaria_logo_resized.ico',
+  favicon: 'img/tabacaria.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
