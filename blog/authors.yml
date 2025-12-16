@@ -15,3 +15,14 @@ Daniel:
   page: true
   socials:
     github: DanielNascimentoo
+
+
+
+João:
+  name: João Mendonça
+  title: Estudante Universitário
+  url: https://github.com/74joaomvm
+  image_url: https://github.com/74joaomvm.png
+  page: true
+  socials:
+    github: 74joaomvm
