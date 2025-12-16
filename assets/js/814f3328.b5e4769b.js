@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkambientes_3=globalThis.webpackChunkambientes_3||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"First Blog Post","permalink":"/ambientes3/blog/first-blog-post","unlisted":false,"date":"2019-05-28T00:00:00.000Z"}]}')}}]);
