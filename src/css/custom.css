@@ -38,3 +38,17 @@
   object-fit: cover;  /* Ajusta a imagem para cobrir a área do elemento */
 }
 
+
+
+/* Centralizar o botão dentro do contêiner */
+.hero__buttons {
+  display: flex;
+  justify-content: center;  /* Alinhar horizontalmente */
+  align-items: center;      /* Alinhar verticalmente */
+  flex-direction: column;   /* Organizar os elementos em coluna */
+}
+
+/* Centralizar o botão */
+.hero__buttons .button {
+  margin-top: 10px; /* Adicionar um pouco de espaço entre o título e o botão */
+}
