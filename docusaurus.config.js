@@ -101,8 +101,8 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://www.youtube.com',
-            label: 'Youtube | Em desenvolvimento...',
+            href: 'https://youtu.be/_TkpyGRslG0',
+            label: 'Como usar? | Youtube',
             position: 'right',
           },
         ],
