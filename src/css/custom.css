@@ -52,3 +52,9 @@
 .hero__buttons .button {
   margin-top: 10px; /* Adicionar um pouco de espaço entre o título e o botão */
 }
+
+
+.hero__title, .hero__subtitle {
+  text-align: center;  /* Centraliza horizontalmente */
+  margin: 0 auto;      /* Garante que os elementos fiquem centralizados */
+}

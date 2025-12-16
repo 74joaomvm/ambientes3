@@ -97,7 +97,7 @@ const config = {
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/74joaomvm/ambientes3',
-            label: 'Aplicação gratuita',
+            label: 'Código fonte',
             position: 'right',
           },
           {
