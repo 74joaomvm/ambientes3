@@ -3,8 +3,11 @@ title: Tabacaria.exe
 description: O sistema inovador para gestão de tabacarias.
 ---
 
+<h1 class="centered-title">Tabacaria.exe</h1>
+
 ## Fácil de Usar
-**Tabacaria.exe** foi projetado para ser facilmente instalado e utilizado, proporcionando uma solução simples e eficiente para gerenciar todos os aspectos da sua tabacaria, incluindo controle de estoque, vendas, e relatórios.
+Docusaurus foi projetado do zero para ser facilmente instalado e utilizado para colocar o seu site em funcionamento rapidamente.
+
 
 ![Ícone Easy to Use](/img/undraw_docusaurus_mountain.svg)
 
