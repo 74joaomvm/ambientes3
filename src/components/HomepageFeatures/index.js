@@ -22,12 +22,11 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Gestão Eficiente',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Economize tempo e maximize resultados. A nossa aplicação ajuda a gerir o seu negócio com precisão, para que consiga se focar no que realmente importa - crescer e expandir no competitivo mercado de tabacarias.
       </>
     ),
   },
