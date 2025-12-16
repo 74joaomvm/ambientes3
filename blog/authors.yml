@@ -26,3 +26,13 @@ João:
   page: true
   socials:
     github: 74joaomvm
+
+
+José:
+  name: José Martins
+  title: Estudante Universitário
+  url: https://github.com/zezim000
+  image_url: https://github.com/zezim000.png
+  page: true
+  socials:
+    github: zezim000
