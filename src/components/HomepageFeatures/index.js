@@ -13,12 +13,11 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Foco naquilo que é o essencial',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Queremos uma interface simples com tudo o que necessita de modo a que possa gerir tudo através de um clique
       </>
     ),
   },
