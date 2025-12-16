@@ -86,7 +86,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'Tabacaria.exe | Inova o teu negócio',
+        title: 'Tabacaria.exe',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -100,8 +100,8 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://github.com/74joaomvm/ambientes3',
+            label: 'Open-Source',
             position: 'right',
           },
         ],
