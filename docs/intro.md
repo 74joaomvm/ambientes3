@@ -81,3 +81,15 @@ A funcionalidade de pedidos permite acompanhar as compras realizadas na tabacari
 3. Clique no ícone de **editar** ao lado do pedido.
 4. Altere o **status** do pedido (ex: de "pendente" para "concluído").
 5. Clique em **Salvar**.
+
+---
+
+## Dicas Extras
+
+- **Relatórios de Vendas**: Use a funcionalidade de **Relatórios** para acompanhar as vendas mensais e identificar os produtos mais vendidos.
+- **Notificações de Baixo Estoque**: Configure notificações para ser alertado quando um produto estiver com o estoque baixo.
+- **Gerenciamento de Clientes**: Crie perfis de clientes para armazenar suas informações e acompanhar o histórico de compras.
+
+Agora que você conhece as funcionalidades principais da nossa aplicação de gestão de tabacaria, aproveite para começar a cadastrar seus produtos, promoções e pedidos. Nossa aplicação foi projetada para ser intuitiva e facilitar o dia a dia do gerenciamento da sua tabacaria.
+
+**Se precisar de mais ajuda, consulte a seção de [Ajuda](#) no menu!**
