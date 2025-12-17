@@ -74,3 +74,10 @@ A funcionalidade de pedidos permite acompanhar as compras realizadas na tabacari
    - **Data do pedido**
    - **Status do pedido** (pendente, em processamento, concluído)
    - **Valor total**
+
+#### Como atualizar o status de um pedido:
+1. Acesse a seção **Pedidos**.
+2. Encontre o pedido que deseja atualizar.
+3. Clique no ícone de **editar** ao lado do pedido.
+4. Altere o **status** do pedido (ex: de "pendente" para "concluído").
+5. Clique em **Salvar**.
