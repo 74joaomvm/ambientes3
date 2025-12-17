@@ -16,3 +16,8 @@ Bem-vindo ao **Tutorial de Gestão da Tabacaria**! Neste tutorial, vamos guiá-l
    - **Quantidade em Estoque**
 4. Clique em **Salvar** para adicionar o produto à sua lista.
 
+#### Como editar um produto existente:
+1. Acesse a seção **Produtos**.
+2. Encontre o produto que deseja editar.
+3. Clique no ícone de **editar** ao lado do produto.
+4. Altere as informações desejadas e clique em **Salvar**.
