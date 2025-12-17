@@ -48,3 +48,12 @@ As promoções são essenciais para atrair mais clientes para sua tabacaria. Com
 2. Encontre a promoção que deseja excluir.
 3. Clique no ícone de **lixeira** ao lado da promoção.
 4. Confirme a exclusão da promoção.
+
+
+### 3. **Controle de Estoque**
+O controle de estoque é crucial para garantir que sua tabacaria não falhe em atender aos clientes.
+
+#### Como ver o status do estoque:
+1. Acesse a seção **Estoque**.
+2. Aplique filtros para visualizar os produtos com baixo estoque ou os produtos que estão prestes a acabar.
+3. A seção exibirá a quantidade disponível de cada produto, o que facilita o reabastecimento.
