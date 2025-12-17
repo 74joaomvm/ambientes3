@@ -1,31 +1,31 @@
 /**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
+ * Qualquer CSS incluído aqui será global. O modelo clássico
+ * já inclui o Infima por padrão. Infima é uma framework CSS desenhada
+ * para funcionar bem em websites focados em conteúdo.
  */
 
-/* You can override the default Infima variables here. */
+/* Você pode sobrescrever as variáveis padrão do Infima aqui. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-color-primary: #1f9c5d;  /* Verde principal */
+  --ifm-color-primary-dark: #178c52; 
+  --ifm-color-primary-darker: #156f42;
+  --ifm-color-primary-darkest: #124b2e;
+  --ifm-color-primary-light: #2da772;
+  --ifm-color-primary-lighter: #32b77b;
+  --ifm-color-primary-lightest: #4bb988;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
+/* Para melhor legibilidade no modo escuro, escolha uma paleta mais clara. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #29b68c;  /* Verde mais claro para o modo escuro */
+  --ifm-color-primary-dark: #24a383;
+  --ifm-color-primary-darker: #1f8a6e;
+  --ifm-color-primary-darkest: #1a6b58;
+  --ifm-color-primary-light: #33c6a2;
+  --ifm-color-primary-lighter: #4fd0a9;
+  --ifm-color-primary-lightest: #65d8b5;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
@@ -34,17 +34,16 @@
 .author__image {
   width: 50px;  /* Ajuste o tamanho conforme necessário */
   height: 50px;
-  border-radius: 50%;  /* Para tornar a imagem redonda, se necessário */
+  border-radius: 50%;  /* Para tornar a imagem redonda */
   object-fit: cover;  /* Ajusta a imagem para cobrir a área do elemento */
 }
-
 
 
 /* Título e Subtítulo */
 .hero__title {
   font-size: 3.5em;  /* Aumenta o tamanho do título */
   font-weight: bold; /* Negrito */
-  color: #f5c542;    /* Dourado */
+  color: #f5c542;    /* Cor dourada */
   text-align: center; /* Centraliza horizontalmente */
   margin: 0 auto;    /* Garante que o título fique no centro */
   text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.6);  /* Sombra para o título */
@@ -117,8 +116,4 @@ footer a {
 footer a:hover {
   color: #ff8c00; /* Cor laranja para hover nos links */
 }
-
-
-
-
 
