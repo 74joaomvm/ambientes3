@@ -63,3 +63,14 @@ O controle de estoque é crucial para garantir que sua tabacaria não falhe em a
 2. Encontre o produto que precisa de ajuste.
 3. Clique no ícone de **ajuste** ao lado do produto.
 4. Adicione ou remova a quantidade desejada e clique em **Salvar**.
+
+### 4. **Gerenciar Pedidos**
+A funcionalidade de pedidos permite acompanhar as compras realizadas na tabacaria.
+
+#### Como visualizar os pedidos:
+1. Acesse a seção **Pedidos**.
+2. Você poderá ver todos os pedidos realizados, com detalhes como:
+   - **Nome do cliente**
+   - **Data do pedido**
+   - **Status do pedido** (pendente, em processamento, concluído)
+   - **Valor total**
