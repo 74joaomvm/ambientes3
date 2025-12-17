@@ -57,3 +57,9 @@ O controle de estoque é crucial para garantir que sua tabacaria não falhe em a
 1. Acesse a seção **Estoque**.
 2. Aplique filtros para visualizar os produtos com baixo estoque ou os produtos que estão prestes a acabar.
 3. A seção exibirá a quantidade disponível de cada produto, o que facilita o reabastecimento.
+
+#### Como realizar um ajuste no estoque:
+1. Acesse a seção **Estoque**.
+2. Encontre o produto que precisa de ajuste.
+3. Clique no ícone de **ajuste** ao lado do produto.
+4. Adicione ou remova a quantidade desejada e clique em **Salvar**.
