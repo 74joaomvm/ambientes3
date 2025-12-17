@@ -34,7 +34,7 @@ As promoções são essenciais para atrair mais clientes para sua tabacaria. Com
    - **Data de Início** e **Data de Fim**
    - **Descrição da Promoção**
    - **Produtos em Promoção**
-   
+
 4. Clique em **Salvar** para adicionar a promoção.
 
 #### Como editar uma promoção:
@@ -42,3 +42,9 @@ As promoções são essenciais para atrair mais clientes para sua tabacaria. Com
 2. Encontre a promoção que deseja editar.
 3. Clique no ícone de **editar** ao lado da promoção.
 4. Altere as informações e clique em **Salvar**.
+
+#### Como excluir uma promoção:
+1. Acesse a seção **Promoções**.
+2. Encontre a promoção que deseja excluir.
+3. Clique no ícone de **lixeira** ao lado da promoção.
+4. Confirme a exclusão da promoção.
